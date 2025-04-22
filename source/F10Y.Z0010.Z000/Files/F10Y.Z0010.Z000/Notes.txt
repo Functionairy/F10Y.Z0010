@@ -1,0 +1,2 @@
+NOTE: .NET project files are saved with a UTF8 byte-order mark (BOM) by default.
+Thus, any project files files should have a BOM.
